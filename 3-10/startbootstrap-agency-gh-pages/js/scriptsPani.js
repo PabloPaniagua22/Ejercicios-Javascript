@@ -47,7 +47,7 @@ window.addEventListener('DOMContentLoaded', event => {
 
 });
 
-
+/* fonszize */
 //Ejercicio 1
 document.getElementById("titulo").textContent = "Hey, Esta es mi Primera Pagina";
 
